@@ -24,8 +24,10 @@ N'hésitez pas à m'envoyer un MP discord stayaway#1992, ou LinkedIn pour une qu
 
 {% embed url="https://www.linkedin.com/in/alixleduc/" %}
 
+<mark style="color:yellow;">Lien write-ups :</mark>&#x20;
 
+{% embed url="https://kalix.gitbook.io/kalixou/" %}
 
-\#Disclaimer Notebook encore très incomplet
+<mark style="color:yellow;">Disclaimer : Notebook encore très incomplet mais changements quotidien, n'hésitez pas à refresh si les changements ne sont pas encore appliqués</mark>
 
 Version 1.0 08/06/2023
